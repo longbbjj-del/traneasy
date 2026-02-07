@@ -81,7 +81,7 @@ Free trial available — no credit card required.
 
 <table>
   <tr>
-    <td><img src="[screenshots/chat-interface.png](https://github.com/longbbjj-del/traneasy/blob/main/13fb3b84307be1d2d0553eabcd49005e.png)" alt="Real-time chat translation" width="400"/></td>
+    <td><img src="[[screenshots/chat-interface.png](https://github.com/longbbjj-del/traneasy/blob/main/13fb3b84307be1d2d0553eabcd49005e.png)](https://github.com/longbbjj-del/traneasy/raw/main/13fb3b84307be1d2d0553eabcd49005e.png)" alt="Real-time chat translation" width="400"/></td>
     <td><img src="screenshots/multi-open.png" alt="Multiple instances running" width="400"/></td>
   </tr>
   <tr>
