@@ -13,7 +13,7 @@
 
 It aggregates the world's most popular messaging apps (WhatsApp, Telegram, LINE, Zalo, etc.), delivers **instant automatic two-way translation**, eliminates copy-pasting, and makes global conversations feel as natural as talking in your native language.
 
-![Hero Banner](screenshots/hero.png)
+![Hero Banner](https://raw.githubusercontent.com/longbbjj-del/traneasy/main/13fb3b84307be1d2d0553eabcd49005e.png)
 <p align="center"><em>Chat like a native — no language barriers, no manual switching.</em></p>
 
 ## ✨ Key Features
@@ -81,12 +81,12 @@ Free trial available — no credit card required.
 
 <table>
   <tr>
-    <td><img src="![TranEasy Chat Interface](https://github.com/longbbjj-del/traneasy/raw/main/13fb3b84307be1d2d0553eabcd49005e.png)" alt="Real-time chat translation" width="400"/></td>
-    <td><img src="screenshots/multi-open.png" alt="Multiple instances running" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/13fb3b84307be1d2d0553eabcd49005e.png" alt="Real-time chat translation interface" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/5e535d6c8fdc9f36d7f7171760dc1258.png" alt="Multiple instances / multi-open support" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/engine-switch.png" alt="Switch translation engines" width="400"/></td>
-    <td><img src="screenshots/crm-tags.png" alt="Customer tagging & stats" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/6c8e0d2a01bab40612f17ec4a90c9aca.png" alt="Translation engine switch & CRM features" width="400"/></td>
+    <td></td>  <!-- 如果只有三张，第四个格子留空或加另一张 -->
   </tr>
 </table>
 
