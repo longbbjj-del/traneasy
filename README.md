@@ -90,7 +90,7 @@ Free trial available — no credit card required.
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/6c8e0d2a01bab40612f17ec4a90c9aca.png" alt="Translation engine switch & CRM features" width="400"/></td>
-    <td></td>  <!-- 如果只有三张，第四个格子留空 -->
+    <td><img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/652819b2abd49d66102017175767415b.png" alt="Additional feature interface (e.g., settings / upcoming tools)" width="400"/></td>
   </tr>
 </table>
 
