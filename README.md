@@ -48,6 +48,12 @@ It aggregates the world's most popular messaging apps (WhatsApp, Telegram, LINE,
 - **Coming Soon**  
   Voice translation • Video call translation • Image/PDF translation • More AI-powered features
 
+Here are previews of some advanced features in action:
+
+<img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/13fb3b84307be1d2d0553eabcd49005e.png" alt="Real-time chat translation with image & voice indicators" width="400"/>
+
+<img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/5e535d6c8fdc9f36d7f7171760dc1258.png" alt="Multi-service addition interface for expanding messaging integrations" width="400"/>
+
 ## 🚀 Why Choose TranEasy?
 
 | Feature                        | TranEasy                  | Generic Translators | Other Chat Tools |
@@ -86,7 +92,7 @@ Free trial available — no credit card required.
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/6c8e0d2a01bab40612f17ec4a90c9aca.png" alt="Translation engine switch & CRM features" width="400"/></td>
-    <td></td>  <!-- 如果只有三张，第四个格子留空或加另一张 -->
+    <td></td>  <!-- 如果只有三张，第四个格子留空 -->
   </tr>
 </table>
 
