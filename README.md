@@ -4,7 +4,10 @@
 [![Version](https://img.shields.io/badge/version-2.x-green)](https://traneasy.com.cn/)
 [![Supported Languages](https://img.shields.io/badge/languages-200%2B-orange)](https://traneasy.com.cn/)
 [![Website](https://img.shields.io/badge/website-traneasy.com.cn-blue)](https://traneasy.com.cn/)
-[![Contact](https://img.shields.io/badge/contact-WhatsApp%20%7C%20Telegram-success)](mailto:yifanyi@traneasy.com.cn)
+[![YouTube](https://img.shields.io/badge/YouTube-@traneasy-red)](https://www.youtube.com/@traneasy)
+[![TikTok](https://img.shields.io/badge/TikTok-@traneasy__yifanyi-black)](https://www.tiktok.com/@traneasy_yifanyi)
+[![Telegram](https://img.shields.io/badge/Telegram-yifanyi-blue)](https://t.me/yifanyi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green)](https://api.whatsapp.com/send/?phone=64204951336&text&type=phone_number&app_absent=0)
 
 **TranEasy (易翻译)** is a professional, fast, and efficient real-time translation assistant designed specifically for cross-border e-commerce customer service and international communication.
 
@@ -100,9 +103,12 @@ Free trial available — no credit card required.
 ## 💬 Contact & Support
 
 - **Email**: yifanyi@traneasy.com.cn
-- **Pre-sales & After-sales**: Scan QR codes on website (WeChat / WhatsApp / Telegram)
-- **Website**: https://traneasy.com.cn/
-- **Feedback & Suggestions**: Welcome issues/PRs!
+- **WhatsApp**: [Click to Chat](https://api.whatsapp.com/send/?phone=64204951336&text&type=phone_number&app_absent=0)
+- **Telegram**: [Join Channel/Group](https://t.me/yifanyi)
+- **YouTube**: [Subscribe @traneasy](https://www.youtube.com/@traneasy) — Tutorials, updates & demos
+- **TikTok**: [Follow @traneasy_yifanyi](https://www.tiktok.com/@traneasy_yifanyi) — Quick tips & short videos
+- **Pre-sales & After-sales**: Use the above channels or scan QR codes on our website
+- **Feedback & Suggestions**: Welcome issues/PRs on GitHub!
 
 ## ⚖️ License
 
@@ -114,3 +120,6 @@ Documentation released under [CC BY-SA 4.0](https://creativecommons.org/licenses
 
 Made with ❤️ for global e-commerce sellers and customer service teams.  
 Let's break language barriers and grow your business worldwide!
+
+Follow us:  
+[YouTube](https://www.youtube.com/@traneasy) • [TikTok](https://www.tiktok.com/@traneasy_yifanyi) • [Telegram](https://t.me/yifanyi) • [WhatsApp](https://api.whatsapp.com/send/?phone=64204951336&text&type=phone_number&app_absent=0)
