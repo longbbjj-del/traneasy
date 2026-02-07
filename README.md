@@ -48,11 +48,9 @@ It aggregates the world's most popular messaging apps (WhatsApp, Telegram, LINE,
 - **Coming Soon**  
   Voice translation • Video call translation • Image/PDF translation • More AI-powered features
 
-Here are previews of some advanced features in action:
+![Real-time Chat Translation Interface](https://raw.githubusercontent.com/longbbjj-del/traneasy/main/13fb3b84307be1d2d0553eabcd49005e.png)
 
-<img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/13fb3b84307be1d2d0553eabcd49005e.png" alt="Real-time chat translation with image & voice indicators" width="400"/>
-
-<img src="https://raw.githubusercontent.com/longbbjj-del/traneasy/main/5e535d6c8fdc9f36d7f7171760dc1258.png" alt="Multi-service addition interface for expanding messaging integrations" width="400"/>
+![Multi-Platform Service Integration](https://raw.githubusercontent.com/longbbjj-del/traneasy/main/5e535d6c8fdc9f36d7f7171760dc1258.png)
 
 ## 🚀 Why Choose TranEasy?
 
